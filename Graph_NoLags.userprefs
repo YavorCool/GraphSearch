@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ChooseVertex.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AStar.cs" Line="111" Column="13" />
+      <File FileName="Assets\Scripts\ChooseVertex.cs" Line="53" Column="56" />
+      <File FileName="Assets\Scripts\MoveAnt.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Edge.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Vertex.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
